@@ -1,4 +1,5 @@
 RPG Character Creator
+
 A Python-based console application that simulates an RPG (Role-Playing Game) character creation system. The program allows users to create custom characters by assigning points to core attributes while enforcing predefined game rules through input validation.
 
 Overview
