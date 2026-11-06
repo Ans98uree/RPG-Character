@@ -46,7 +46,10 @@ The sum of all attributes must equal exactly 7 points
 Example Output
 
 rex
+
 STR ●●○○○○○○○○
+
 INT ●●●●○○○○○○
+
 CHA ●○○○○○○○○○
 
